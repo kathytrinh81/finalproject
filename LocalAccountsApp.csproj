@@ -187,6 +187,7 @@
     <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Filters\RequireHttpsAttribute.cs" />
     <Compile Include="Global.asax.cs">
+    <Compile Include="SQL\LoginDB.sql" />
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
